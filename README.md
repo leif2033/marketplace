@@ -1,5 +1,10 @@
 # Marketplace
 
+Struct: 
+- /api/ - API flask backend
+- / - Angular Application
+- /system/ - Config for nginx
+
 
 
 # Angular man 
